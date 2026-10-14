@@ -1,0 +1,7 @@
+{
+  "name": "OPPO Cần Thơ - Sales & Supply Chain Dashboard",
+  "description": "Hệ thống phân tích báo cáo bán hàng, chuỗi cung ứng theo tháng, tuần và trợ lý chuyên gia Gemini AI khu vực Cần Thơ - Hậu Giang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
